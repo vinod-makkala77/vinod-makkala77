@@ -12,7 +12,7 @@
 ### <img src="https://slackmojis.com/emojis/6843-blob_detective/download" width="40"> About Me
 
 ```javascript 
-const Rohith = {
+const Vinod = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "PHP", "C"],
     askMeAbout: ["web dev", "tech", "travel", "motivation 😉"],
